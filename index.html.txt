@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Explore the National Parks</title>
+</head>
+<body>
+    <main>
+        <h1>National Parks of the United States</h1>
+        <div>
+            <h2>Overview</h2>
+            <p>The United States is home to some of the most beautiful national parks, offering vast wilderness, stunning landscapes, and diverse wildlife. From the Grand Canyon to Yellowstone, these parks are treasured natural wonders.</p>
+        </div>
+        <div>
+            <h2>Top National Parks</h2>
+            <h3>Popular Parks to Visit</h3>
+            <ul>
+                <li>Yosemite National Park</li>
+                <li>Grand Canyon National Park</li>
+                <li>Yellowstone National Park</li>
+                <li>Great Smoky Mountains National Park</li>
+            </ul>
+
+            <a href="https://www.nps.gov/index.htm"><h3>Explore More Parks</h3></a>
+            <ol>
+                <li><strong>Yosemite National Park</strong></li>
+                <li>Glacier National Park</li>
+                <li>Zion National Park</li>
+                <li>Arches National Park</li>
+                <li>Rocky Mountain National Park</li>
+            </ol>
+        </div>
+
+        <div>
+            <h2>Photo Gallery</h2>
+            <img src=""C:\Users\shiva\OneDrive\Desktop\img1.png"" alt="Yosemite Valley in California" width="90%">
+            <img src=""C:\Users\shiva\OneDrive\Desktop\img1.png"" alt="Grand Canyon at sunrise" width="90%">
+            <img src=""C:\Users\shiva\OneDrive\Desktop\imag2.png"" alt="Geyser in Yellowstone National Park" width="90%">
+        </div>
+    </main>
+</body>
+</html>
